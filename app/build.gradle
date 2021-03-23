@@ -1,0 +1,132 @@
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'
+apply plugin: 'kotlin-kapt'
+
+android {
+    compileSdkVersion 30
+    buildToolsVersion "30.0.3"
+
+    defaultConfig {
+        applicationId "com.erik.jetpackpro"
+        minSdkVersion 16
+        targetSdkVersion 30
+        versionCode 1
+        versionName "1.0"
+        multiDexEnabled true
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+        debug {
+            resValue("string", "runMode", "development")
+            buildConfigField 'String', 'BASE_URL', '"https://api.themoviedb.org/3/"'
+            buildConfigField 'String', 'BASE_URL_POSTER_PATH_SMALL', '"http://image.tmdb.org/t/p/w185/"'
+            buildConfigField 'String', 'BASE_URL_POSTER_PATH_BIG', '"http://image.tmdb.org/t/p/w500/"'
+            buildConfigField 'String', 'API_KEY', '"022836d378dd25e7d064b78034991927"'
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    kotlinOptions {
+        jvmTarget = '1.8'
+    }
+
+    buildFeatures {
+        viewBinding true
+    }
+
+    kapt {
+        generateStubs = true
+    }
+
+    testOptions {
+        unitTests {
+            includeAndroidResources = true
+        }
+    }
+
+    ext {
+        kotlinVersion = '1.3.72'
+    }
+}
+
+dependencies {
+
+    implementation 'com.google.android.material:material:1.2.1'
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.3.72"
+    implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.3.8"
+    implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.3.7"
+    implementation "androidx.core:core-ktx:1.3.2"
+
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation "androidx.appcompat:appcompat:1.2.0"
+    implementation "androidx.constraintlayout:constraintlayout:2.0.4"
+
+    implementation 'androidx.navigation:navigation-fragment-ktx:2.3.2'
+    implementation "androidx.recyclerview:recyclerview:1.1.0"
+    implementation "com.google.android.material:material:1.2.1"
+    implementation "com.github.bumptech.glide:glide:4.11.0"
+    implementation "com.github.bumptech.glide:glide:4.11.0"
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+
+    testImplementation "junit:junit:4.13.1"
+    androidTestImplementation "junit:junit:4.13.1"
+    androidTestImplementation 'androidx.test:runner:1.3.0'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+    androidTestImplementation 'androidx.test.espresso:espresso-contrib:3.3.0'
+    androidTestImplementation 'androidx.test:rules:1.3.0'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.2'
+    androidTestImplementation "com.squareup.okhttp3:mockwebserver:4.9.0"
+
+    // mockito
+    testImplementation "org.mockito:mockito-core:3.6.0"
+    testImplementation "org.mockito:mockito-inline:3.6.0"
+    testImplementation "com.nhaarman.mockitokotlin2:mockito-kotlin:2.2.0"
+    testImplementation "androidx.arch.core:core-testing:2.1.0"
+
+    implementation "androidx.lifecycle:lifecycle-viewmodel:2.2.0"
+
+    //koin
+    implementation "org.koin:koin-core:2.2.2"
+    implementation "org.koin:koin-androidx-scope:2.2.2"
+    implementation "org.koin:koin-androidx-viewmodel:2.2.2"
+    testImplementation "org.koin:koin-test:2.2.2"
+
+    implementation "com.squareup.retrofit2:retrofit:2.9.0"
+    implementation "com.squareup.retrofit2:converter-gson:2.9.0"
+    implementation "com.squareup.okhttp3:logging-interceptor:4.9.0"
+    implementation "com.jakewharton.retrofit:retrofit2-kotlin-coroutines-adapter:0.9.2"
+
+    implementation 'io.reactivex.rxjava2:rxandroid:2.1.1'
+    implementation 'io.reactivex.rxjava2:rxjava:2.2.18'
+    implementation 'com.jakewharton.rxbinding3:rxbinding:3.0.0'
+    implementation 'com.squareup.retrofit2:adapter-rxjava2:2.5.0'
+    implementation 'com.squareup.retrofit2:retrofit-mock:2.9.0'
+
+    implementation 'com.android.support:multidex:1.0.3'
+    implementation "androidx.test.espresso:espresso-idling-resource:3.3.0"
+
+    // Shimmer
+    implementation 'com.facebook.shimmer:shimmer:0.5.0@aar'
+
+    //AwesomeDialog
+    implementation 'com.github.chnouman:AwesomeDialog:1.0.5'
+
+    //Room
+    implementation "androidx.room:room-runtime:2.2.6"
+    kapt "androidx.room:room-compiler:2.2.6"
+    implementation "androidx.paging:paging-runtime-ktx:2.1.2"
+
+    androidTestImplementation "androidx.test:core-ktx:1.3.0"
+    androidTestImplementation "androidx.test.ext:junit-ktx:1.1.2"
+}

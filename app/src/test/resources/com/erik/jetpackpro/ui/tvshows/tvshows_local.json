@@ -1,0 +1,411 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "backdrop_path": "/57vVjteucIF3bGnZj6PmaoJRScw.jpg",
+      "first_air_date": "2021-01-15",
+      "genre_ids": [
+        10765,
+        9648,
+        35,
+        18
+      ],
+      "id": 85271,
+      "name": "WandaVision",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "WandaVision",
+      "overview": "Wanda Maximoff and Vision—two super-powered beings living idealized suburban lives—begin to suspect that everything is not as it seems.",
+      "popularity": 3197.962,
+      "poster_path": "/glKDfE6btIRcVB5zrjspRIs4r52.jpg",
+      "vote_average": 8.4,
+      "vote_count": 3107
+    },
+    {
+      "backdrop_path": "/9hvhGtcsGhQY58pukw8w55UEUbL.jpg",
+      "first_air_date": "2017-01-26",
+      "genre_ids": [
+        9648,
+        18,
+        80
+      ],
+      "id": 69050,
+      "name": "Riverdale",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Riverdale",
+      "overview": "Set in the present, the series offers a bold, subversive take on Archie, Betty, Veronica and their friends, exploring the surreality of small-town life, the darkness and weirdness bubbling beneath Riverdale’s wholesome facade.",
+      "popularity": 1800.132,
+      "poster_path": "/wRbjVBdDo5qHAEOVYoMWpM58FSA.jpg",
+      "vote_average": 8.6,
+      "vote_count": 9010
+    },
+    {
+      "backdrop_path": "/wAEWZm2pSopAbqE5dQWE0ET8aR5.jpg",
+      "first_air_date": "2021-01-08",
+      "genre_ids": [
+        99
+      ],
+      "id": 114695,
+      "name": "Marvel Studios: Legends",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Marvel Studios: Legends",
+      "overview": "Revisit the epic heroes, villains and moments from across the MCU in preparation for the stories still to come. Each dynamic segment feeds directly into the upcoming series — setting the stage for future events. This series weaves together the many threads that constitute the unparalleled Marvel Cinematic Universe.",
+      "popularity": 1153.385,
+      "poster_path": "/EpDuYIK81YtCUT3gH2JDpyj8Qk.jpg",
+      "vote_average": 7.7,
+      "vote_count": 214
+    },
+    {
+      "backdrop_path": "/fRYwdeNjMqC30EhofPx5PlDpdun.jpg",
+      "first_air_date": "2018-10-25",
+      "genre_ids": [
+        10765,
+        18
+      ],
+      "id": 79460,
+      "name": "Legacies",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Legacies",
+      "overview": "In a place where young witches, vampires, and werewolves are nurtured to be their best selves in spite of their worst impulses, Klaus Mikaelson’s daughter, 17-year-old Hope Mikaelson, Alaric Saltzman’s twins, Lizzie and Josie Saltzman, among others, come of age into heroes and villains at The Salvatore School for the Young and Gifted.",
+      "popularity": 1066.645,
+      "poster_path": "/qTZIgXrBKURBK1KrsT7fe3qwtl9.jpg",
+      "vote_average": 8.6,
+      "vote_count": 1479
+    },
+    {
+      "backdrop_path": "/mZjZgY6ObiKtVuKVDrnS9VnuNlE.jpg",
+      "first_air_date": "2017-09-25",
+      "genre_ids": [
+        18
+      ],
+      "id": 71712,
+      "name": "The Good Doctor",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Good Doctor",
+      "overview": "A young surgeon with Savant syndrome is recruited into the surgical unit of a prestigious hospital. The question will arise: can a person who doesn't have the ability to relate to people actually save their lives",
+      "popularity": 951.395,
+      "poster_path": "/6tfT03sGp9k4c0J3dypjrI8TSAI.jpg",
+      "vote_average": 8.6,
+      "vote_count": 6623
+    },
+    {
+      "backdrop_path": "/p7fwOnlxYYlB4A8U2b0JfX21Rr1.jpg",
+      "first_air_date": "2019-11-12",
+      "genre_ids": [
+        10765,
+        10759
+      ],
+      "id": 82856,
+      "name": "The Mandalorian",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Mandalorian",
+      "overview": "After the fall of the Galactic Empire, lawlessness has spread throughout the galaxy. A lone gunfighter makes his way through the outer reaches, earning his keep as a bounty hunter.",
+      "popularity": 821.227,
+      "poster_path": "/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg",
+      "vote_average": 8.5,
+      "vote_count": 5548
+    },
+    {
+      "backdrop_path": "/pwyMoXQbqJdmpjjl23KaaQLOv6S.jpg",
+      "first_air_date": "2021-01-22",
+      "genre_ids": [
+        10765,
+        18
+      ],
+      "id": 97175,
+      "name": "Fate: The Winx Saga",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Fate: The Winx Saga",
+      "overview": "The coming-of-age journey of five fairies attending Alfea, a magical boarding school in the Otherworld where they must learn to master their powers while navigating love, rivalries, and the monsters that threaten their very existence.",
+      "popularity": 900.616,
+      "poster_path": "/oHj6guMrLfQcBzo3uxwBJc8Y736.jpg",
+      "vote_average": 8.6,
+      "vote_count": 374
+    },
+    {
+      "backdrop_path": "/gL8myjGc2qrmqVosyGm5CWTir9A.jpg",
+      "first_air_date": "2018-05-02",
+      "genre_ids": [
+        10759,
+        18
+      ],
+      "id": 77169,
+      "name": "Cobra Kai",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Cobra Kai",
+      "overview": "This Karate Kid sequel series picks up 30 years after the events of the 1984 All Valley Karate Tournament and finds Johnny Lawrence on the hunt for redemption by reopening the infamous Cobra Kai karate dojo. This reignites his old rivalry with the successful Daniel LaRusso, who has been working to maintain the balance in his life without mentor Mr. Miyagi.",
+      "popularity": 810.477,
+      "poster_path": "/obLBdhLxheKg8Li1qO11r2SwmYO.jpg",
+      "vote_average": 8.2,
+      "vote_count": 2130
+    },
+    {
+      "backdrop_path": "/aq2yEMgRQBPfRkrO0Repo2qhUAT.jpg",
+      "first_air_date": "2013-03-03",
+      "genre_ids": [
+        10759,
+        18
+      ],
+      "id": 44217,
+      "name": "Vikings",
+      "origin_country": [
+        "CA"
+      ],
+      "original_language": "en",
+      "original_name": "Vikings",
+      "overview": "The adventures of Ragnar Lothbrok, the greatest hero of his age. The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes. As well as being a fearless warrior, Ragnar embodies the Norse traditions of devotion to the gods. Legend has it that he was a direct descendant of Odin, the god of war and warriors.",
+      "popularity": 729.51,
+      "poster_path": "/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
+      "vote_average": 8,
+      "vote_count": 3952
+    },
+    {
+      "backdrop_path": "/2fhU42I8pPdvEKfrZtuJ8KrzdeF.jpg",
+      "first_air_date": "2020-05-17",
+      "genre_ids": [
+        10765
+      ],
+      "id": 79680,
+      "name": "Snowpiercer",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Snowpiercer",
+      "overview": "Set more than seven years after the world has become a frozen wasteland, the remnants of humanity inhabit a gigantic, perpetually-moving train that circles the globe as class warfare, social injustice and the politics of survival play out.",
+      "popularity": 596.25,
+      "poster_path": "/95xQPSqwvQDRoB3rXUn4lRyJrBW.jpg",
+      "vote_average": 7.6,
+      "vote_count": 451
+    },
+    {
+      "backdrop_path": "/lbWUCXIeoVXowAtLlAVR3aeHjkT.jpg",
+      "first_air_date": "2021-01-08",
+      "genre_ids": [
+        80,
+        18,
+        9648
+      ],
+      "id": 96677,
+      "name": "Lupin",
+      "origin_country": [
+        "FR"
+      ],
+      "original_language": "fr",
+      "original_name": "Lupin",
+      "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+      "popularity": 600.923,
+      "poster_path": "/sgxawbFB5Vi5OkPWQLNfl3dvkNJ.jpg",
+      "vote_average": 8,
+      "vote_count": 449
+    },
+    {
+      "backdrop_path": "/edmk8xjGBsYVIf4QtLY9WMaMcXZ.jpg",
+      "first_air_date": "2005-03-27",
+      "genre_ids": [
+        18
+      ],
+      "id": 1416,
+      "name": "Grey's Anatomy",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Grey's Anatomy",
+      "overview": "Follows the personal and professional lives of a group of doctors at Seattle’s Grey Sloan Memorial Hospital.",
+      "popularity": 651.986,
+      "poster_path": "/clnyhPqj1SNgpAdeSS6a6fwE6Bo.jpg",
+      "vote_average": 8.2,
+      "vote_count": 5114
+    },
+    {
+      "backdrop_path": "/ta5oblpMlEcIPIS2YGcq9XEkWK2.jpg",
+      "first_air_date": "2016-01-25",
+      "genre_ids": [
+        80,
+        10765
+      ],
+      "id": 63174,
+      "name": "Lucifer",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Lucifer",
+      "overview": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
+      "popularity": 607.837,
+      "poster_path": "/4EYPN5mVIhKLfxGruy7Dy41dTVn.jpg",
+      "vote_average": 8.5,
+      "vote_count": 7306
+    },
+    {
+      "backdrop_path": "/9CV2kagVJIRqwojOSJymIGwfz9b.jpg",
+      "first_air_date": "2018-10-14",
+      "genre_ids": [
+        18,
+        10765
+      ],
+      "id": 79611,
+      "name": "Charmed",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Charmed",
+      "overview": "Set in the fictional college town of Hilltowne, Charmed follows the lives of three sisters, Macy, Mel and Maggie Vera who, after the tragic death of their mother, discover they are three of the most powerful witches of all time.",
+      "popularity": 597.216,
+      "poster_path": "/jyArBuSbEnSoQinAZBU6pZmmL6M.jpg",
+      "vote_average": 7.5,
+      "vote_count": 203
+    },
+    {
+      "backdrop_path": "/7dnjFPoa22Yl3RKctp8kgUxiUg9.jpg",
+      "first_air_date": "2017-04-30",
+      "genre_ids": [
+        18,
+        9648,
+        10765
+      ],
+      "id": 46639,
+      "name": "American Gods",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "American Gods",
+      "overview": "An ex-con becomes the traveling partner of a conman who turns out to be one of the older gods trying to recruit troops to battle the upstart deities. Based on Neil Gaiman's fantasy novel.",
+      "popularity": 531.905,
+      "poster_path": "/3KCAZaKHmoMIN9dHutqaMtubQqD.jpg",
+      "vote_average": 7.1,
+      "vote_count": 895
+    },
+    {
+      "backdrop_path": "/mE3zzMkpP8yqlkzdjPsQmJHceoe.jpg",
+      "first_air_date": "2019-02-15",
+      "genre_ids": [
+        10759,
+        10765,
+        18
+      ],
+      "id": 75006,
+      "name": "The Umbrella Academy",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Umbrella Academy",
+      "overview": "A dysfunctional family of superheroes comes together to solve the mystery of their father's death, the threat of the apocalypse and more.",
+      "popularity": 454.528,
+      "poster_path": "/scZlQQYnDVlnpxFTxaIv2g0BWnL.jpg",
+      "vote_average": 8.7,
+      "vote_count": 5763
+    },
+    {
+      "backdrop_path": "/m7FqiUOvsSk7Ulg2oRMfFGcLeT9.jpg",
+      "first_air_date": "2020-12-25",
+      "genre_ids": [
+        18
+      ],
+      "id": 91239,
+      "name": "Bridgerton",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Bridgerton",
+      "overview": "Wealth, lust, and betrayal set in the backdrop of Regency era England, seen through the eyes of the powerful Bridgerton family.",
+      "popularity": 442.256,
+      "poster_path": "/qaewZKBKmXjb4ZfFBb1LCug6BE8.jpg",
+      "vote_average": 8.3,
+      "vote_count": 697
+    },
+    {
+      "backdrop_path": "/8AdmUPTyidDebwIuakqkSt6u1II.jpg",
+      "first_air_date": "2018-10-26",
+      "genre_ids": [
+        9648,
+        10765,
+        18
+      ],
+      "id": 79242,
+      "name": "Chilling Adventures of Sabrina",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Chilling Adventures of Sabrina",
+      "overview": "As her 16th birthday nears, Sabrina must choose between the witch world of her family and the human world of her friends. Based on the Archie comic.",
+      "popularity": 436.177,
+      "poster_path": "/yxMpoHO0CXP5o9gB7IfsciilQS4.jpg",
+      "vote_average": 8.4,
+      "vote_count": 2266
+    },
+    {
+      "backdrop_path": "/b5gkII2f1VYNUWl6TitpH4SsAMF.jpg",
+      "first_air_date": "2019-10-06",
+      "genre_ids": [
+        10759,
+        10765,
+        9648,
+        80
+      ],
+      "id": 89247,
+      "name": "Batwoman",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Batwoman",
+      "overview": "Kate Kane, armed with a passion for social justice and a flair for speaking her mind, soars onto the streets of Gotham as Batwoman, an out lesbian and highly trained street fighter primed to snuff out the failing city's criminal resurgence. But don't call her a hero yet. In a city desperate for a savior, Kate must overcome her own demons before embracing the call to be Gotham's symbol of hope",
+      "popularity": 433.31,
+      "poster_path": "/xjyEpcuDbB1jy0ehNQMBiO8KOdr.jpg",
+      "vote_average": 7.3,
+      "vote_count": 868
+    },
+    {
+      "backdrop_path": "/b7MUOLzo9kxQRSjGHwp589HMdxI.jpg",
+      "first_air_date": "2020-12-17",
+      "genre_ids": [
+        10765,
+        18
+      ],
+      "id": 86382,
+      "name": "The Stand",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Stand",
+      "overview": "In a world mostly wiped out by the plague and embroiled in an elemental struggle between good and evil, the fate of mankind rests on the frail shoulders of the 108-year-old Mother Abagail and a handful of survivors. Their worst nightmares are embodied in a man with a lethal smile and unspeakable powers: Randall Flagg, the Dark Man.",
+      "popularity": 385.677,
+      "poster_path": "/w6XiuRK5QQaLNmIqDRCWOpEcHwi.jpg",
+      "vote_average": 7.2,
+      "vote_count": 209
+    }
+  ],
+  "total_pages": 500,
+  "total_results": 10000
+}
